@@ -1,0 +1,45 @@
+{
+  "homebrew_version": "2.7.7-120-gd2430bc",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "include/luajit-2.0/luaconf.h",
+    "lib/pkgconfig/luajit.pc"
+  ],
+  "time": 1631423896,
+  "source_modified_time": 1493662260,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "2.0.5",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/luajit.rb",
+    "tap_git_head": "00889339ce46b6ca17575145a908b0dc2928429a",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 11",
+    "cpu_family": "penryn",
+    "xcode": "12.4",
+    "clt": "12.4.0.0.1.1610135815"
+  }
+}
